@@ -8,7 +8,7 @@ const {
 
 const {
   loadPlanetsData
-} = require('../../models/launches.model');
+} = require('../../models/planets.model');
 
 describe("Launches API", () => {
   beforeAll(async () => {
